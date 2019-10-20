@@ -17,8 +17,17 @@ https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm
 https://www.tutorialspoint.com/design_pattern/proxy_pattern.htm
 
 5. MVC
+
+https://www.tutorialspoint.com/design_pattern/mvc_pattern.htm
+
 6. Front Controller
+
+https://www.tutorialspoint.com/design_pattern/front_controller_pattern.htm
+
 7. Template Pattern
+
+https://www.tutorialspoint.com/design_pattern/template_pattern.htm
+
 8. View Helper
 
 https://blog.eduonix.com/java-programming-2/learn-design-patterns-used-spring-framework/
